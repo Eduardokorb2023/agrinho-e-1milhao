@@ -126,3 +126,12 @@ background-color:rgb(70, 70, 70);
     }
 }
 
+.btn{
+    padding: 5px 5px;
+    width: 100px;
+    color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
