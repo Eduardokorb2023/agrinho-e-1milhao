@@ -1,13 +1,13 @@
 .im1{
     margin: auto;
     display: block;
-width: 41%;
+width: 41vw;
 background-color: rgb(150, 231, 95);
 }
 
 .horta{background-color: rgb(150, 231, 95);
     color: rgb(0, 0, 0);
-    width: 100%;
+    width: 100vw;
     justify-content: space-around;
     display: flex;
     align-items: center;
@@ -41,13 +41,13 @@ background-color:rgb(70, 70, 70);
 @media (max-width:500000000000px) { 
     .im1{   margin: auto;
         display: block;
-    width: 41%;
+    width: 41vw;
     background-color: rgb(150, 231, 95);}
 
     
     .horta {background-color: rgb(150, 231, 95);
         color: rgb(0, 0, 0);
-        width: 100%;
+        width: 100vw;
         justify-content: space-around;
         display: flex;
         align-items: center;
@@ -83,14 +83,14 @@ background-color:rgb(70, 70, 70);
 @media (min-width:1px)   {
     .im1{   margin: auto;
         display: block;
-    width: 41%;
+    width: 41vw;
     background-color: rgb(150, 231, 95);}
     
     
     
     .horta{background-color: rgb(150, 231, 95);
         color: rgb(0, 0, 0);
-        width: 100%;
+        width: 100vw;
         justify-content: space-around;
         display: flex;
         align-items: center;
