@@ -107,7 +107,7 @@ background-color:rgb(70, 70, 70);
     .Eduardo{
         font-size: 300%;
         color: rgb(0, 0, 0);
-        text-align: center;
+        align-items: center;
     }
     
     /*layout fluido*/
