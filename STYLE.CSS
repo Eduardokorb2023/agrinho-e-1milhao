@@ -53,18 +53,18 @@ background-color:rgb(70, 70, 70);
         justify-content: space-around;
         display: flex;
         align-items: center;
-        font-size: 150%;
+        font-size: 150vw;
     }
     
     .edu{
-        font-size: 150%;
+        font-size: 150vw;
         color: rgb(0, 0, 0);
         text-align: left;
     }
     
     
     .Eduardo{
-        font-size: 300%;
+        font-size: 300vw;
         color: rgb(0, 0, 0);
         text-align: center;
     }
@@ -96,11 +96,11 @@ background-color:rgb(70, 70, 70);
         justify-content: space-around;
         display: flex;
         align-items: center;
-        font-size: 150%;
+        font-size: 150vw;
     }
     
     .edu{
-        font-size: 150%;
+        font-size: 150vw;
         color: rgb(0, 0, 0);
         text-align: left;
     }
@@ -122,6 +122,7 @@ background-color:rgb(70, 70, 70);
     }
     .di{
         text-align: left;
+        font-size: 100vw;
     }
 }
 
