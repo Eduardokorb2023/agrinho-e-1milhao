@@ -25,6 +25,7 @@ background-color: rgb(150, 231, 95);
     font-size: 300%;
     color: rgb(0, 0, 0);
     text-align: center;
+    background-color: rgb(150, 231, 95);
 }
 
 /*layout fluido*/
@@ -37,6 +38,7 @@ background-color:rgb(70, 70, 70);
 }
 .di{
     text-align: left;
+    background-color: rgb(150, 231, 95);
 }
 @media (max-width:500000000000px) { 
     .im1{   margin: auto;
