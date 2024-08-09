@@ -123,13 +123,3 @@ background-color:rgb(70, 70, 70);
         font-size: 2vw;
     }
 
-
-.btn{
-    padding: 5px 5px;
-    width: 100px;
-    color: aliceblue;
-    border-radius: 15px;
-    text-align: center;
-    user-select: none;
-    cursor: pointer;
-}
