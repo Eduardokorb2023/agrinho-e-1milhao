@@ -17,7 +17,7 @@ background-color: rgb(150, 231, 95);
 .edu{
     font-size: 150%;
     color: rgb(0, 0, 0);
-    text-align: left;
+    text-align: center;
 }
 
 
@@ -37,7 +37,7 @@ background-color:rgb(70, 70, 70);
 
 }
 .di{
-    text-align: left;
+    text-align: center;
     background-color: rgb(150, 231, 95);
 }
 @media (max-width:500000000000px) { 
@@ -59,7 +59,7 @@ background-color:rgb(70, 70, 70);
     .edu{
         font-size: 150vw;
         color: rgb(0, 0, 0);
-        text-align: left;
+        text-align: center;
     }
     
     
@@ -78,7 +78,7 @@ background-color:rgb(70, 70, 70);
     
     }
     .di{
-        text-align: left;
+        text-align: center;
     }
 }
 
@@ -102,7 +102,7 @@ background-color:rgb(70, 70, 70);
     .edu{
         font-size: 2vw;
         color: rgb(0, 0, 0);
-        text-align: left;
+        text-align: center;
     }
     
     
@@ -119,7 +119,7 @@ background-color:rgb(70, 70, 70);
     
     }
     .di{
-        text-align: left;
+        text-align: center;
         font-size: 2vw;
     }
 
