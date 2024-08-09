@@ -115,22 +115,20 @@ background-color:rgb(70, 70, 70);
     /*layout fluido*/
     
     
-    .e{
-        color: rgb(0, 0, 0);
-    background-color:rgb(70, 70, 70);
+   
     
     }
     .di{
         text-align: left;
         font-size: 2vw;
     }
-}
+
 
 .btn{
     padding: 5px 5px;
     width: 100px;
     color: aliceblue;
-    border-radius: 5px;
+    border-radius: 15px;
     text-align: center;
     user-select: none;
     cursor: pointer;
